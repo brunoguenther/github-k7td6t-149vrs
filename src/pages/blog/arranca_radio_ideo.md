@@ -8,7 +8,7 @@ short: Contamos cómo se puede crear un blog de ejemplo a partir de otro
 ---
 
 Ejemplo de entrada de blog generada con un formato diferente
-al HTML que me permite meter información de una forma más 
+al HTML que me permite meter información de una forma más
 clara.
 
 Lo curioso de este formato es que también puedo utilizar
